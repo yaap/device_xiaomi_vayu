@@ -432,7 +432,7 @@ vendor/lib64/libhdr_tm.so|a222a7d838735c5ce73f06d4096fea3ca19611c8
 
 # Display (SDM) - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
 vendor/lib64/libdisplayqos.so|5548732c916e629f18f45ce257ce843b679a136a
-vendor/lib64/libdpps.so|a9d4e3806a433b9dfc7cb49556efa9fc65389e75
+vendor/lib64/libdpps.so|a9d4e3806a433b9dfc7cb49556efa9fc65389e75|8a20ba129c6c97972114f6d8da52bd7692739634
 vendor/lib64/libqseed3.so|7f2a659fb9acd84d79c11dbd6901b816d5d1214f
 vendor/lib64/libsdedrm.so|7cf5f4e7e4dacae88e317d3397fdf25dabe45b65
 vendor/lib64/libsdm-color.so|d0984c33dcbf84940676917e0c3584b0ccfeaf03
